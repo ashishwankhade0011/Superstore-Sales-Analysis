@@ -119,8 +119,11 @@ Sub-Category Stars: Phones and chairs emerge as the top-selling sub-categories.
 Project relies on the following key technologies:
 
 Power BI Desktop Design, visualization, and interactive reporting.
+
 DAX (Data Analysis Expressions) Creation of calculations and measures supporting data visualizations.
+
 Advanced Analytics Predict future sales trends based on historical data.
+
 Power Query Clean and transform raw data into a structured format.
 
 
