@@ -78,6 +78,9 @@ Identification of top payment modes, segments, ship modes, and much more.
 
 ![dash1](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/5fc46346-a858-42ac-9f94-bf08d4008e57)
 
+# Category And Sub-Category Level
+![dash2](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/ae18ea39-a679-450e-b74b-c9dce399f034)
+
 
 
 
