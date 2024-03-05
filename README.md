@@ -20,6 +20,16 @@ handling duplicates, and adjusting data types to ensure data quality.
 The subsequent step was to create calculated measures and tables using DAX (Data Analysis Expressions) in Power BI, enhancing the 
 dataset's analytical capabilities
 
+#Calculate a measure to determine the number of days it took for delivery.
+  Days for shipment = DATEDIFF(SuperStore[Order Date],SuperStore[Ship Date],DAY)
+
+#Created new columns to make easy calculations 
+Month=Superstore[Order Date].[Month]
+Quarter=Superstore[Order Date].[Quarter]
+Year=Superstore[Order Date].[Year]
+Day of week=WEEKDAY(Superstore[Order Date],2)
+weekday/weekend=if(Superstore[Day of week]=6 || Superstore[Day of week]=7,"weekend","weekday")
+
 # Data Analysis
 
 Following data modeling, an in-depth data analysis was conducted within Power BI, utilizing various visualization techniques like matrices to 
