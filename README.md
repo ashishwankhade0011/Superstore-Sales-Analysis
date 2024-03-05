@@ -82,6 +82,13 @@ Identification of top payment modes, segments, ship modes, and much more.
 ![dash2](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/ae18ea39-a679-450e-b74b-c9dce399f034)
 
 
+# Region And State Level
+![dash3](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/1969b889-21ff-477b-92e5-07f6c6a184d1)
+
+
+# Sales Forecasting 
+
+
 
 
 
