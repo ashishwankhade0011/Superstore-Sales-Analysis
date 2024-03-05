@@ -88,6 +88,8 @@ Identification of top payment modes, segments, ship modes, and much more.
 
 # Sales Forecasting 
 
+![dash4 sale](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/293d9adc-b906-4ae2-9a2f-21f4eac489f7)
+
 
 
 
