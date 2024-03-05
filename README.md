@@ -57,6 +57,7 @@ Geographical distribution of sales.
 Identification of top payment modes, segments, ship modes, and much more.
 
 
+![Screenshot 2024-03-05 164101](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/fce459f2-994a-4448-b8e9-a279f1d3fe5e)
 
 
 
