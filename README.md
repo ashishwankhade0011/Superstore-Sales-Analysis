@@ -90,6 +90,39 @@ Identification of top payment modes, segments, ship modes, and much more.
 
 ![dash4 sale](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/293d9adc-b906-4ae2-9a2f-21f4eac489f7)
 
+The sales forecasting page focuses on predicting sales for the subsequent 10 days. Leveraging historical sales data and
+advanced forecasting techniques of Power BI.
+
+# Key Insights
+The dashboard and forecasting page unveil the following key insights:
+
+Monthly Peaks: Noteworthy sales spikes in February, August, and October hint at recurring patterns.
+
+Parallel Growth: While 2020 exhibits higher sales than 2019, the trend patterns remain consistent.
+
+Geographic Leaders: California takes the lead in sales, closely followed by New York.
+
+Region Impact: The West region contributes the most to overall sales.
+
+Payment Preference: Cash On Delivery (COD) emerges as the preferred payment method.
+
+Consumer Champion: The consumer segment generates the highest sales figures.
+
+Top Category: Office Supplies stand out as the dominant sales category.
+
+Preferred Shipping: Standard Class is the preferred shipping choice.
+
+Sub-Category Stars: Phones and chairs emerge as the top-selling sub-categories.
+
+
+# Tech Stack
+Project relies on the following key technologies:
+
+Power BI Desktop Design, visualization, and interactive reporting.
+DAX (Data Analysis Expressions) Creation of calculations and measures supporting data visualizations.
+Advanced Analytics Predict future sales trends based on historical data.
+Power Query Clean and transform raw data into a structured format.
+
 
 
 
