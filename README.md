@@ -22,25 +22,8 @@ dataset's analytical capabilities
 
 #Calculate a measure to determine the number of days it took for delivery.
 
+Avg Delivery Days = DATEDIFF(SuperStore[Order Date],SuperStore[Ship Date],DAY)
 
-  Days for shipment = DATEDIFF(SuperStore[Order Date],SuperStore[Ship Date],DAY)
-
-#Created new columns to make easy calculations 
-
-
-Month=Superstore[Order Date].[Month]
-
-
-Quarter=Superstore[Order Date].[Quarter]
-
-
-Year=Superstore[Order Date].[Year]
-
-
-Day of week=WEEKDAY(Superstore[Order Date],2)
-
-
-weekday/weekend=if(Superstore[Day of week]=6 || Superstore[Day of week]=7,"weekend","weekday")
 
 # Data Analysis
 
@@ -76,19 +59,11 @@ Identification of top payment modes, segments, ship modes, and much more.
 
 
 
-![dash1](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/5fc46346-a858-42ac-9f94-bf08d4008e57)
-
-# Category And Sub-Category Level
-![dash2](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/ae18ea39-a679-450e-b74b-c9dce399f034)
-
-
-# Region And State Level
-![dash3](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/1969b889-21ff-477b-92e5-07f6c6a184d1)
 
 
 # Sales Forecasting 
 
-![dash4 sale](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/293d9adc-b906-4ae2-9a2f-21f4eac489f7)
+
 
 The sales forecasting page focuses on predicting sales for the subsequent 10 days. Leveraging historical sales data and
 advanced forecasting techniques of Power BI.
