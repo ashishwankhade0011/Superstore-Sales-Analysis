@@ -63,13 +63,22 @@ The dashboard section offers an array of visualizations that empower users to ex
 Key features of the dashboard include:
 
 Visualization of monthly and yearly sales trends.
+
+
 Comparison of sales across different categories and sub-categories.
+
+
 Geographical distribution of sales.
+
+
 Identification of top payment modes, segments, ship modes, and much more.
 
 
 
 
 ![dash1](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/5fc46346-a858-42ac-9f94-bf08d4008e57)
+
+
+
 
 
