@@ -66,6 +66,8 @@ Identification of top payment modes, segments, ship modes, and much more.
 
 # Sales Forecasting 
 
+![Screenshot 2024-03-06 075315](https://github.com/ashishwankhade0011/Superstore-Sales-Analysis/assets/160989632/34e4be0a-115a-453c-b2a8-9ee72c09db1d)
+
 
 
 The sales forecasting page focuses on predicting sales for the subsequent 10 days. Leveraging historical sales data and
@@ -103,6 +105,20 @@ DAX (Data Analysis Expressions) Creation of calculations and measures supporting
 Advanced Analytics Predict future sales trends based on historical data.
 
 Power Query Clean and transform raw data into a structured format.
+
+
+# Files Information
+
+Data
+
+SuperStore Processed Data: This file holds the data that has undergone cleaning and processing.
+
+Sales TimeSeries: This file includes an additional table created using DAX, which played a role in the forecasting process.
+
+
+Results
+
+Dashboard: Within this section, you will find two sheets - one dedicated to the interactive dashboard and the other to the forecasting report.
 
 
 
